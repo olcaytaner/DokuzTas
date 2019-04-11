@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Aynen kalacak*/
 public abstract class Oyuncu {
     private String ad;
     private String kazanmaCumlesi;
