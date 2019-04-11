@@ -1,6 +1,6 @@
 package DokuzTas;
 
-/*Aynen kalacak*/
+/*Oyunun bittiğini anlayacak*/
 public class BasitDegerlendirmeFonksiyonu implements DegerlendirmeFonksiyonu {
     private Tahta tahta;
 
