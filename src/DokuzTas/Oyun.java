@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Oyuna göre değişecek*/
 public class Oyun {
     private Oyuncu oyuncular[];
     private Tahta tahta;
