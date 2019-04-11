@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Şimdilik oyuna göre basit bir şekilde değişecek*/
 public class KarmasikDegerlendirmeFonksiyonu implements DegerlendirmeFonksiyonu {
     private Tahta tahta;
 
