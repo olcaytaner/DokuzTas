@@ -2,6 +2,7 @@ package DokuzTas;
 
 import java.util.ArrayList;
 
+/*Oyuna göre değişecek*/
 public class Tahta {
     private Tas tahta[][];
     private int satir, sutun;
