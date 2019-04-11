@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Oyuna göre değişecek*/
 public class Hareket {
     private int sutun;
 
