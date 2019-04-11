@@ -2,6 +2,7 @@ package DokuzTas;
 
 import java.util.Scanner;
 
+/*Oyuna göre değişecek*/
 public class InsanOyuncu extends Oyuncu {
 
     public InsanOyuncu(String ad){
