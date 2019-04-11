@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Aynen kalacak*/
 public class BasitDegerlendirmeFonksiyonu implements DegerlendirmeFonksiyonu {
     private Tahta tahta;
 
