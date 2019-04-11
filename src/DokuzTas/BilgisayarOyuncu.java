@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Random;
 
+/*Alfa beta pruning eklenecek*/
 public class BilgisayarOyuncu extends Oyuncu {
     private int maksimumDerinlik;
     private DegerlendirmeFonksiyonuTipi degerlendirmeFonksiyonuTipi;
