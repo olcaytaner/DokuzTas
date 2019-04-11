@@ -1,5 +1,6 @@
 package DokuzTas;
 
+/*Oyuna göre değişecek*/
 public class Durum {
     private Tahta tahta;
     private int derinlik;
